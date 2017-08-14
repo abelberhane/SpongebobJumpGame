@@ -1,0 +1,9 @@
+c:\users\aberhane\documents\visual studio 2017\Projects\SpongebobJumpgame\SpongebobJumpgame\bin\Debug\SpongebobJumpgame.exe.config
+c:\users\aberhane\documents\visual studio 2017\Projects\SpongebobJumpgame\SpongebobJumpgame\bin\Debug\SpongebobJumpgame.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\SpongebobJumpgame\SpongebobJumpgame\bin\Debug\SpongebobJumpgame.pdb
+c:\users\aberhane\documents\visual studio 2017\Projects\SpongebobJumpgame\SpongebobJumpgame\obj\Debug\SpongebobJumpgame.csprojResolveAssemblyReference.cache
+c:\users\aberhane\documents\visual studio 2017\Projects\SpongebobJumpgame\SpongebobJumpgame\obj\Debug\SpongebobJumpgame.Form1.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\SpongebobJumpgame\SpongebobJumpgame\obj\Debug\SpongebobJumpgame.Properties.Resources.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\SpongebobJumpgame\SpongebobJumpgame\obj\Debug\SpongebobJumpgame.csproj.GenerateResource.Cache
+c:\users\aberhane\documents\visual studio 2017\Projects\SpongebobJumpgame\SpongebobJumpgame\obj\Debug\SpongebobJumpgame.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\SpongebobJumpgame\SpongebobJumpgame\obj\Debug\SpongebobJumpgame.pdb
